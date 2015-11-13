@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  PlayingHamster
+//  杨垚-打地鼠
 //
-//  Created by yangyao on 15/11/13.
-//  Copyright © 2015年 Yao Yang. All rights reserved.
+//  Created by rimi on 15/4/20.
+//  Copyright (c) 2015年 yangyao. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
